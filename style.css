@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Wittgenstein", serif;
+
+}
+
+.button {
+  width: 60px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30px;
+  color: black;
+  cursor: pointer;
+  background-color: #d1ddec;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid yellowgreen;
+  border-radius: 24px;
+}
